@@ -50,6 +50,7 @@ footer{
 
 table{
     text-align: left;
+    border-spacing: 0;
 }
 
 .thead{
