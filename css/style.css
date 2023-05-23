@@ -8,7 +8,7 @@ body{
     height: 75px;
     background-color: rgb(78, 160, 255);
     background-image: url("../img/pattern.png");
-    background-size: 30%;
+    background-size: 300px;
 }
 
 #logo{
